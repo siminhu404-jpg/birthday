@@ -1,0 +1,1 @@
+把自己的照片放到这个目录，然后在 `src/content.js` 的 memory.photos 数组里把 src 改成 `/photos/你的文件名.jpg` 即可。推荐使用 jpg/webp，单张宽度 1000px 以上。
